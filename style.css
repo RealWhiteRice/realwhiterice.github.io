@@ -1,0 +1,16 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: green;
+}
+
+a {
+  color: purple;
+  text-decoration: none;
+}
